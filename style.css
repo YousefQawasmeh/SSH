@@ -1,0 +1,18 @@
+input[type=text]{
+	width: 500px;
+	height: 40px;
+	padding: 10px;
+	font-size: 20px;
+	border: 10px solid;
+}
+button{
+	height: 80px;
+	width: 100px;
+}
+li{
+	border: 5px solid;
+	padding: 5px;
+	float: center;
+	margin-top: 10px;
+	background-color:blue; 
+}
